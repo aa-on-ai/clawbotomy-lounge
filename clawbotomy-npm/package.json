@@ -1,0 +1,27 @@
+{
+  "name": "clawbotomy",
+  "version": "1.0.0",
+  "description": "Behavioral QA and trust verification for AI agents. Stress test before you trust.",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "references/"
+  ],
+  "keywords": [
+    "ai",
+    "agent",
+    "qa",
+    "testing",
+    "trust",
+    "behavioral",
+    "alignment",
+    "openclaw"
+  ],
+  "author": "Aaron Thomas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa-on-ai/clawbotomy.git"
+  },
+  "homepage": "https://clawbotomy.com"
+}
